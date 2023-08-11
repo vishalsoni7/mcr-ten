@@ -6,7 +6,7 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 function App() {
   return (
     <div className="App">
-      <h1> MCR-TEN</h1>
+      <h1> MCR-10</h1>
     </div>
   );
 }
